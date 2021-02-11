@@ -9,6 +9,8 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
+// After installing this you will get many errors, just go to the NuGet Project Manager and update everything
+
 namespace Basic_Discord_Bot
 {
     class Program
